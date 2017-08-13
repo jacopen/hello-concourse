@@ -9,5 +9,4 @@ inputs:
 outputs:
   - name: out
 run:
-  path: find
-  args: ["."]
+  path: ./hello/hello.sh
