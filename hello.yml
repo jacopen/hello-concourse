@@ -9,4 +9,4 @@ inputs:
 outputs:
   - name: out
 run:
-  path: ./hello/hello.sh
+  path: ls
