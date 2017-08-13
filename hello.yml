@@ -9,4 +9,5 @@ inputs:
 outputs:
   - name: out
 run:
-  path: ls
+  path: find
+  args: ["."]
